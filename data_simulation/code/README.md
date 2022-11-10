@@ -1,0 +1,2 @@
+- simulate_phenotype.jl: simulate phenotypes based on difference values for heritability and the number of QTLs.
+- simu_P.R: generate P matrix (random orthogonal matrix).
